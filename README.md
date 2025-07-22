@@ -1,4 +1,11 @@
-## Oiii! Me chamo Fernanda Ribeiro
+# Fernanda Ribeiro
+
+**`Desenvolvedora Java`**
+
+Me chamo Fernanda Ribeiro, tenho 20 anos e atualmente estou cursando Gestão da Tecnologia da Informação no SENACSP. Atualmente estou cursando:
+- Java
+  
+
  <div>
   <a href="https://github.com/f3f3h">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=f3f3h&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
