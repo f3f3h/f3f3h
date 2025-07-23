@@ -4,6 +4,8 @@
 
 Me chamo Fernanda Ribeiro, tenho 20 anos e atualmente estou cursando Gestão da Tecnologia da Informação no SENACSP. Atualmente estou cursando:
 - Java
+- Inglês
+- SQL
   
 
  <div>
