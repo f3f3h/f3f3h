@@ -1,12 +1,24 @@
 # Fernanda Ribeiro
 
-**`Desenvolvedora Java`**
+Olá! Meu nome é **Fernanda Ribeiro**, tenho 20 anos e sou estudante de **Gestão da Tecnologia da Informação** no **SENAC-SP**.
 
-Me chamo Fernanda Ribeiro, tenho 20 anos e atualmente estou cursando Gestão da Tecnologia da Informação no SENACSP. Atualmente estou cursando:
-- Java
-- Inglês
-- SQL
-  
+Atualmente estou me dedicando ao desenvolvimento de habilidades técnicas nas seguintes áreas:
+
+### 🚀 Em andamento:
+- 🧠 **Java** – Programação orientada a objetos, boas práticas e desenvolvimento de sistemas.
+- 🌐 **Inglês** – Foco em leitura técnica, escrita e conversação para o mercado de tecnologia.
+- 🗄️ **SQL** – Manipulação de dados, modelagem de banco e comandos essenciais (CRUD, JOINs, etc).
+
+---
+
+### 🎯 Objetivo:
+Me desenvolver como profissional na área de tecnologia, contribuindo com soluções criativas e funcionais para projetos de software.
+
+
+---
+
+> _"A tecnologia move o mundo — e estou pronta para fazer parte desse movimento."_ ✨
+
 
  <div>
   <a href="https://github.com/f3f3h">
@@ -22,9 +34,16 @@ Me chamo Fernanda Ribeiro, tenho 20 anos e atualmente estou cursando Gestão da 
 </div>
   
   ##
- 
+  
+   ### 📫 Contato:
 <div> 
-  <a href = "mailto:f3rnandarib3iro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/f3f3h/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<a href="mailto:f3rnandarib3iro@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-C71585?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/f3f3h/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
  </div>
- 
