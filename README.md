@@ -2,7 +2,7 @@
 
 # Fernanda Ribeiro
 
-Olá! Meu nome é **Fernanda Ribeiro**, tenho 20 anos e sou estudante de **Gestão da Tecnologia da Informação** no **SENAC-SP**.
+Olá! Meu nome é **Fernanda Ribeiro**, tenho 20 anos e sou estudante de **Gestão da Tecnologia da Informação** no **SENAC-SP**. Apaixonada por tecnologia e inovação, estou em constante evolução para desenvolver habilidades técnicas e comportamentais que me preparem para atuar no mercado de TI.
 
 Atualmente estou me dedicando ao desenvolvimento de habilidades técnicas nas seguintes áreas:
 
@@ -11,13 +11,11 @@ Atualmente estou me dedicando ao desenvolvimento de habilidades técnicas nas se
 - 🌐 **Inglês** – Foco em leitura técnica, escrita e conversação para o mercado de tecnologia.
 - 🗄️ **SQL** – Manipulação de dados, modelagem de banco e comandos essenciais (CRUD, JOINs, etc).
 
----
 
 ### 🎯 Objetivo:
 Me desenvolver como profissional na área de tecnologia, contribuindo com soluções criativas e funcionais para projetos de software.
 
-
----
+<br>
 
 > _"A tecnologia move o mundo — e estou pronta para fazer parte desse movimento."_ ✨
 
