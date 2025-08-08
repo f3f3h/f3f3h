@@ -1,3 +1,5 @@
+<img width="150%" src="https://capsule-render.vercel.app/api?type=waving&color=ffb3d1&height=120&section=header"/>
+
 # Fernanda Ribeiro
 
 Olá! Meu nome é **Fernanda Ribeiro**, tenho 20 anos e sou estudante de **Gestão da Tecnologia da Informação** no **SENAC-SP**.
@@ -19,12 +21,12 @@ Me desenvolver como profissional na área de tecnologia, contribuindo com soluç
 
 > _"A tecnologia move o mundo — e estou pronta para fazer parte desse movimento."_ ✨
 
-
  <div>
   <a href="https://github.com/f3f3h">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=f3f3h&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3f3h&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+   
 <div style="display: inline_block"><br>
   <img align="center" alt="Fefeh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fefeh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -47,3 +49,4 @@ Me desenvolver como profissional na área de tecnologia, contribuindo com soluç
 </a>
 
  </div>
+<img width="150%" src="https://capsule-render.vercel.app/api?type=waving&color=ffb3d1&height=120&section=footer"/>
