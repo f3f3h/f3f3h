@@ -2,7 +2,7 @@
 
 # Fernanda Ribeiro
 
-Olá! Meu nome é **Fernanda Ribeiro**, tenho 21 anos e sou estudante de **Gestão da Tecnologia da Informação** no **SENAC-SP**. Apaixonada por tecnologia e inovação, estou em constante evolução para desenvolver habilidades técnicas e comportamentais que me preparem para atuar no mercado de TI.
+Olá! Meu nome é **Fernanda Ribeiro**, tenho 21 anos e sou recém formada em **Gestão da Tecnologia da Informação** no **SENAC-SP**. Apaixonada por tecnologia e inovação, estou em constante evolução para desenvolver habilidades técnicas e comportamentais que me preparem para atuar no mercado de TI.
 
 Atualmente estou me dedicando ao desenvolvimento de habilidades técnicas nas seguintes áreas:
 
@@ -16,14 +16,6 @@ Atualmente estou me dedicando ao desenvolvimento de habilidades técnicas nas se
 Me desenvolver como profissional na área de tecnologia, contribuindo com soluções criativas e funcionais para projetos de software.
 
 <br>
-
-> _"A tecnologia move o mundo — e estou pronta para fazer parte desse movimento."_ ✨
-
- <div>
-  <a href="https://github.com/f3f3h">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=f3f3h&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3f3h&layout=compact&langs_count=16&theme=dracula"/>
-</div>
    
 <div style="display: inline_block"><br>
   <img align="center" alt="Fefeh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
